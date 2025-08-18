@@ -42,5 +42,3 @@ Is the New file Exists : true
 - IDE (VS Code)
 - Terminal/Console Input-Output
 
-Enter a number to divide 100 by: 0
-Exception Caught: Division by zero is not allowed.
